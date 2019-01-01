@@ -1,3 +1,2 @@
 # experimental_test
-test
-hello
+Hello world!
